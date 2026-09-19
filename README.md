@@ -1,1 +1,1 @@
-# Practicality-in-digital-signal-processing_final_project
+# 北醫醫工大三上 數位訊號處理程式設計與應用課 期末報告
